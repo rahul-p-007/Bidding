@@ -1,0 +1,20 @@
+
+**ADMIN's LOGIN DETAIL**  (localhost/OnlineBiddingSystem/administrator)
+
+Username : admin
+Password : admin
+
+**USER LOGIN DETAILS**
+
+Username : harry
+Password : codeprojects
+
+Username : codeprojects
+Password : codeprojects
+
+OR SIMPLY YOU CAN REGISTER
+** NOTE: After Registration, the account needs to get activated. For that Open the Database File, Go to Member Table, 
+Look for your 'userid' row and check 'Verification' row. Set the value from 'no' to 'yes'
+
+DON'T FORGET TO CREATE A DATABASE NAMING "biddingsystemdb" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.

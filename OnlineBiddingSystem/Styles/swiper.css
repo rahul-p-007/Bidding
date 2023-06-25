@@ -1,0 +1,19 @@
+/* swiper */
+.section-swiper {
+  padding: 4rem 0%;
+}
+swiper {
+  width: 100vw;
+  height: 100vh;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  height: 90vh;
+  width: 100vw;
+  object-fit: contain;
+}
