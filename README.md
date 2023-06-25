@@ -1,4 +1,5 @@
-# Bidding
+ <h1>Bidding</h1>
+ 
 ![image](https://github.com/rahul-p-007/Bidding/assets/106008744/15b188ad-5647-48a1-b318-74ea3a083abf)
 
 ![image](https://github.com/rahul-p-007/Bidding/assets/106008744/dc3dfc3f-eea4-4fa2-8b26-5f9c661312b8)
